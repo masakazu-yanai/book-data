@@ -4,6 +4,7 @@
 
 * サンプルコード
     * [ZIPファイル](./data/sample_code.zip)
+    * 本ファイルは、PyInstallerで生成したEXEファイルを含んでいます。そのため、セキュリティソフトによっては誤検知されて警告が出ることがあります。
 * 頒布ページ
     * [PythonとPygameで作るレトロ風RPG全コード](https://crocro.com/shop/item/python_pygame_rpg.html)
 * 試し読みページ
