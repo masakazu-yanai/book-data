@@ -9,6 +9,9 @@
 * 試し読みページ
     * [PythonとPygameで作る レトロ風RPG 全コード](https://crocro.com/write/python_pygame_rpg/)
 
+表紙画像やゲームのスクリーンショットは、紹介などでご自由に利用ください。
+
+
 ## 表紙画像
 
 ![表紙](./image/cover.jpg)
